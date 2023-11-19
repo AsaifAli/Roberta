@@ -20,7 +20,6 @@ Here is a diagram of the RoBERTa model architecture:
 
 
 
-
 [Input Embedding] -> [Encoder Block 1] -> [Encoder Block 2] -> ... -> [Encoder Block 12] -> [Pooler] -> [Output Embedding]
 
 The input embedding layer converts each word in the input sentence into a vector representation. The encoder blocks then process the vector representations of the words in the sentence. The pooler layer produces a vector representation of the entire sentence. The output embedding layer converts the vector representation of the sentence back into a sequence of words.
