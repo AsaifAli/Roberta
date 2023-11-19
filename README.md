@@ -1,4 +1,4 @@
-![image](https://github.com/AsaifAli/Roberta/assets/113298667/d818a546-c959-4ea6-9837-dcf2c4e11d5f)# Roberta
+Roberta
 RoBERTa stands for "Robustly Optimized BERT Pretraining Approach." It is a large language model (LLM) based on the Transformer architecture, which was first introduced in the paper "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" by Jacob Devlin et al. (2018).
 
 RoBERTa is a reimplementation of BERT with some key modifications that make it more robust and generalizable. These modifications include:
